@@ -4,6 +4,11 @@ A full-stack financial dashboard built with the Next.js App Router.
 
 **🌐 Live Demo:** [https://nextjs-dashboard-rosy-nine-40.vercel.app/](https://nextjs-dashboard-rosy-nine-40.vercel.app/)
 
+### 🔑 Demo Credentials
+
+- **Email:** `user@nextmail.com`
+- **Password:** `123456`
+
 ## 🚀 Features
 
 - **Authentication**: Secure login using Auth.js (NextAuth v5) and Middleware.
